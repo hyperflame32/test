@@ -1,3 +1,3 @@
 # Test
 
-Thing
+Thing!
